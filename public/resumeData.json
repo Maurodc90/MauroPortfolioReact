@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name": "Mauro Del Core",
+    "occupation": "CS Student, Junior Javascript & ReactJS Developer",
+    "description": "Italian Guy based in London with passion about coding and tech ",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Mauro i am a 30yo guy CS student, currently working as a bartender  ",
+    "contactmessage": "Feel free to contact me for any request about work ",
+    "email": "maurodc90@gmail.com",
+    "phone": "+44 7395 396004",
+    "address": {
+      "street": "46 Drayton Road",
+      "city": "London",
+      "state": "UK",
+      "zip": "N17 6HJ"
+    },
+    "resumedownload": "./images/CV-Del Core Mauro.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/maurodc90/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mauro-del-core-7574a1173/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/maurodc90/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Maurodc90",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Roehampton",
+        "degree": "Computing Technologies",
+        "description": "Started 2020"
+      }
+    ],
+    "work": [
+      {
+        "company": "Harry's Bar & Brasserie",
+        "title": "Bartender",
+        "years": "November 2018 - Present"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "30%"
+      },
+      {
+        "name": "C#/Unity",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Simple Page",
+        "category": "My first simply portfolio page",
+        "image": "portfoliopage.png",
+        "url": "https://maurodelcore.netlify.app"
+      },
+      {
+        "title": "HTML/CSS with Flexbox use case",
+        "category": "A simple page using CSS Flexbox",
+        "image": "cssflexbox.png",
+        "url": "https://udemycss-css-flexboxtutorial.netlify.app"
+      },
+      {
+        "title": "Simple HTML CSS Website",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "htmlcss.png",
+        "url": "https://html-css-mauro-training-tea-station.netlify.app"
+      }
+    ]
+  }
+}
